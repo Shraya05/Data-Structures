@@ -99,4 +99,5 @@ public class LinkedList {
 	        list.insertAtPosition(5, 3);
 	        list.print(); // Output: 5 -> 20 -> 10 -> 25 -> 30 -> 40
     }
+	    
 }
